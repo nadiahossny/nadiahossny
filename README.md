@@ -2,7 +2,7 @@
 <h3 align="center">Flutter & Front-End Developer | UI/UX Designer | CS Student @ PUA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A700&center=true&width=440&lines=Flutter+%26+Web+Developer;UI%2FUX+Designer+%7C+DEPI+Scholar;Fast+Learner+%7C+Team+Player+%7C+Detail+Oriented" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A700&center=true&width=440&lines=Flutter+Developer+%7C+Web+Developer;UI%2FUX+Designer+%7C+CS+Student;Building+Meaningful+Digital+Experiences" alt="Typing SVG" />
 </p>
 
 ---
