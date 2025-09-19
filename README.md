@@ -18,6 +18,7 @@
 ---
 
 ### 💼 Experience Highlights
+- **Frontend Developer** @ NTI -> HTML, CSS, JS, JQuery & SEO
 - **Flutter Developer** @ Route Academy → Firebase & API integrations, state management (Provider, Bloc)
 - **UI/UX Designer** @ DEPI → Adobe Suite, Figma, research, prototyping, usability testing
 - **.NET Developer** @ ITI → Built C# desktop apps with SQL Server integration
@@ -29,9 +30,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🚀 [NASA Explorer](https://github.com/nadd5/NASAExp.git) | Responsive website using NASA’s API to explore space data |
+| 🚀 [NASA Explorer](https://github.com/nadiahossny/NASAExp.git) | Responsive website using NASA’s API to explore space data |
 | ✅ [Taskly – Productivity App](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity) | UX-focused task management app design |
-| 🛍️ [E-Commerce Flutter App](https://github.com/nadd5/ecomm.git) | Feature-rich Flutter shopping app with API integration |
+| 🛍️ [E-Commerce Flutter App](https://github.com/nadiahossny/ecomm.git) | Feature-rich Flutter shopping app with API integration |
 
 ---
 
@@ -42,7 +43,7 @@
 `Flutter (Dart)` `Responsive Design` `Kotlin`
 
 #### 🌐 **Backend & Databases**
-`Node.js` `RESTful APIs` `Firebase`  
+`Node.js` `Express.js` `RESTful APIs` `Firebase`  
 `MongoDB` `MySQL` `Supabase`  
 
 #### 🎨 **UI/UX Design**
@@ -58,9 +59,9 @@
 
 ### 🌐 Let’s Connect
 <p>
-  <a href="https://www.linkedin.com/in/nadia-hosny" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/nadd5" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.behance.net/nadia_hossny" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nadiahossny" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nadiahossny" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.behance.net/nadiahossny" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </p>
 
 ---
