@@ -10,10 +10,10 @@
 ### 💫 About Me
 
 - 💻 **Software Engineer** focused on creating intuitive, multi-featured applications
-- 🎨 Passionate about **"Happiness-First" Design**—building products that are visually appealing and flexible
+- 🎨 Passionate about building products that are visually appealing and flexible
 - 🛠️ Dedicated to crafting **productivity and study tools** that simplify complex workflows
 - 🤖 Currently developing **"Jarvis"**, a smart office assistant designed to help automate daily tasks
-- 💼 Former **Head of Design** @ GDSC & active Vice Head of Web Committee @ IEEE
+- 💼 Former **Head of Design** @ GDSC & Vice Head of Web Committee @ IEEE
 
 ---
 
@@ -29,8 +29,8 @@
 
 | Project | Description |
 |--------|-------------|
-| 📚 **[Study Buddy](#)** | **(EdTech Tool)** A dedicated platform designed to help students organize tasks and streamline their studying routine |
-| ✅ **[Taskly – Productivity App](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity)** | A visually relaxing task manager focused on reducing user stress through clean UI and smooth UX |
+| 📚 **[Study Buddy](https://studybuddy4u.netlify.app)** | **(EdTech Tool)** A dedicated platform designed to help students organize tasks and their studying routine |
+| ✅ **[Taskly](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity)** | A visually relaxing task manager focused on reducing user stress through clean UI and smooth UX |
 | 🤖 **[Jarvis - Office Assistant](#)** | A smart robotic assistant built to bring flexibility and automation to the office environment |
 | 🛍️ **[E-Commerce App](https://github.com/nadiahossny/ecomm.git)** | A feature-rich shopping experience designed for ease of use and visual clarity |
 
