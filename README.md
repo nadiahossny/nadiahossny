@@ -1,39 +1,39 @@
 <h1 align="center">Hi 👋, I'm Nadia Hossny</h1>
-<h3 align="center">Flutter Developer | UI/UX Designer | Software Engineer</h3>
+<h3 align="center">Product-Minded Software Engineer | Flutter Developer | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A700&center=true&width=480&lines=Flutter+%26+Mobile+Developer;Building+AI-Powered+Solutions;UI%2FUX+Designer+%26+Researcher;Open+to+Work;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A700&center=true&width=500&lines=Building+Visually+Stunning+Products;Crafting+Tools+That+Improve+Daily+Life;Flutter+%26+Mobile+Developer;UI%2FUX+Designer+%26+Researcher;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-- 💻 **Software Engineer** with a strong focus on **Mobile & Web Development**
-- 🤖 Currently leading development on **"Jarvis"**, an AI-powered robotic office assistant
-- 🧠 Passionate about **System Integration**, merging Mobile Apps with AI & Robotics
+- 💻 **Software Engineer** focused on creating intuitive, multi-featured applications
+- 🎨 Passionate about **"Happiness-First" Design**—building products that are visually appealing and flexible
+- 🛠️ Dedicated to crafting **productivity and study tools** that simplify complex workflows
+- 🤖 Currently developing **"Jarvis"**, a smart office assistant designed to help automate daily tasks
 - 💼 Former **Head of Design** @ GDSC & active Vice Head of Web Committee @ IEEE
-- 🎯 Focused on creating user-centric solutions through **Front-End Development** and **UI/UX**
 - 📍 Alexandria, Egypt
 
 ---
 
 ### 💼 Experience Highlights
-- **Flutter Developer** @ Route Academy → Advanced state management (Bloc/Cubit), Firebase & API integrations
-- **UI/UX Designer** @ DEPI → User research, Glassmorphism design systems, and High-fidelity prototyping
-- **Frontend Developer** @ NTI → Responsive web development with SEO best practices
-- **.NET Developer** @ ITI → C# desktop applications with SQL Server integration
+- **Flutter Developer** @ Route Academy → Building scalable mobile apps with seamless API integration
+- **UI/UX Designer** @ DEPI → Focusing on user empathy, visual storytelling, and high-fidelity prototyping
+- **Frontend Developer** @ NTI → Creating responsive, accessible, and SEO-friendly web experiences
+- **.NET Developer** @ ITI → Developing robust desktop solutions for data management
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Products
 
 | Project | Description |
 |--------|-------------|
-| 🤖 **[Jarvis - AI Assistant](#)** | Robotic office assistant featuring Computer Vision, Voice Control, and Python/Flutter integration |
-| ✅ **[Taskly](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity)** | UX-focused task management app with custom glassmorphism UI themes |
-| 🛍️ **[E-Commerce App](https://github.com/nadiahossny/ecomm.git)** | Full-scale Flutter shopping app with reliable API integration & payment flows |
-| 🚀 **[NASA Explorer](https://github.com/nadiahossny/NASAExp.git)** | Responsive web app using NASA’s API to visualize space data |
+| 📚 **[Study Buddy](#)** | **(EdTech Tool)** A dedicated platform designed to help students organize tasks and streamline their studying routine |
+| ✅ **[Taskly – Productivity App](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity)** | A visually relaxing task manager focused on reducing user stress through clean UI and smooth UX |
+| 🤖 **[Jarvis - Office Assistant](#)** | A smart robotic assistant built to bring flexibility and automation to the office environment |
+| 🛍️ **[E-Commerce App](https://github.com/nadiahossny/ecomm.git)** | A feature-rich shopping experience designed for ease of use and visual clarity |
 
 ---
 
@@ -43,17 +43,13 @@
 `Flutter (Dart)` `Kotlin` `React.js` `Tailwind CSS`  
 `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
-#### 🧠 **AI & Backend**
-`Python (Flask/FastAPI)` `Generative AI APIs`
-`Firebase` `Node.js` `Docker` `MongoDB`
-
-#### 🎨 **UI/UX Design**
+#### 🎨 **Design & Creativity**
 `Figma` `Adobe XD` `Illustrator` `Photoshop`  
-`Prototyping` `User Personas` `Wireframing`
+`User Journey Mapping` `Visual Design` `Prototyping`
 
-#### 🛠 **Tools**
-`VS Code` `Android Studio` `Postman` `Git & GitHub`  
-`Notion`
+#### 🌐 **Backend & Tools**
+`Firebase` `Python` `Node.js` `Git & GitHub`  
+`Notion` `Jira` `VS Code`
 
 ---
 
@@ -67,4 +63,4 @@
 
 ---
 
-> “Great design is born of two things: clarity and passion.”
+> “I build products that bring flexibility, utility, and a little bit of joy to the user.”
