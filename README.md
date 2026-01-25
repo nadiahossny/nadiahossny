@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Flutter Developer | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A700&center=true&width=500&lines=Building+Visually+Stunning+Products;Crafting+Tools+That+Improve+Daily+Life;Flutter+%26+Mobile+Developer;UI%2FUX+Designer+%26+Researcher;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A700&center=true&width=500&lines=Crafting+Tools+That+Improve+Daily+Life;Flutter+%26+Mobile+Developer;UI%2FUX+Designer+%26+Researcher;" alt="Typing SVG" />
 </p>
 
 ---
