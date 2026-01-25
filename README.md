@@ -30,8 +30,8 @@
 
 | Project | Description |
 |--------|-------------|
-| 🤖 **[Jarvis - AI Assistant](#)** | **(Flagship Project)** Robotic office assistant featuring Computer Vision, Voice Control, and Python/Flutter integration |
-| ✅ **[Taskly – Productivity App](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity)** | UX-focused task management app with custom glassmorphism UI themes |
+| 🤖 **[Jarvis - AI Assistant](#)** | Robotic office assistant featuring Computer Vision, Voice Control, and Python/Flutter integration |
+| ✅ **[Taskly](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity)** | UX-focused task management app with custom glassmorphism UI themes |
 | 🛍️ **[E-Commerce App](https://github.com/nadiahossny/ecomm.git)** | Full-scale Flutter shopping app with reliable API integration & payment flows |
 | 🚀 **[NASA Explorer](https://github.com/nadiahossny/NASAExp.git)** | Responsive web app using NASA’s API to visualize space data |
 
@@ -44,8 +44,8 @@
 `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
 #### 🧠 **AI & Backend**
-`Python (Flask/FastAPI)` `Generative AI APIs` `Computer Vision`  
-`Firebase (Auth, Firestore)` `Node.js` `Docker` `MongoDB`
+`Python (Flask/FastAPI)` `Generative AI APIs`
+`Firebase` `Node.js` `Docker` `MongoDB`
 
 #### 🎨 **UI/UX Design**
 `Figma` `Adobe XD` `Illustrator` `Photoshop`  
@@ -53,7 +53,7 @@
 
 #### 🛠 **Tools**
 `VS Code` `Android Studio` `Postman` `Git & GitHub`  
-`Notion` `Jira`
+`Notion`
 
 ---
 
