@@ -14,7 +14,6 @@
 - 🛠️ Dedicated to crafting **productivity and study tools** that simplify complex workflows
 - 🤖 Currently developing **"Jarvis"**, a smart office assistant designed to help automate daily tasks
 - 💼 Former **Head of Design** @ GDSC & active Vice Head of Web Committee @ IEEE
-- 📍 Alexandria, Egypt
 
 ---
 
