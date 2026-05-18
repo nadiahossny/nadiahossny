@@ -30,7 +30,7 @@
 ### 🚀 Featured Products
 
 | Project | Description |
-|------------|-------------|
+|--------------|-------------|
 | 📚 **[Study Buddy](https://studybuddy4u.netlify.app)** | A dedicated EdTech platform to organize study routines, featuring ambient focus modes and AI-assisted prep. |
 | ✅ **[Taskly](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity)** | A visually relaxing task manager focused on reducing user stress through clean UI and smooth UX. |
 | ⚕️ **APMS - Pharmacy System** | A comprehensive full-stack management system featuring an AI chatbot that translates natural language queries into SQL. |
