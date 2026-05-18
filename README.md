@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadia</h1>
-<h3 align="center">Software Engineer | UX Engineer | Mobile & Web Developer</h3>
+<h3 align="center">Software Engineer & UX Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=89CFF0&center=true&width=600&lines=Crafting+Elegant+%26+Intuitive+Tools;Passionate+about+HCI+%26+UX+Engineering;Building+Seamless+Web+%26+Mobile+Experiences;" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 - 🛠️ Currently rebuilding **Study Buddy** (React) to include ambient modes, focus timers, and AI-driven exam prep.
 - ⚕️ Developing **APMS** (Automated Pharmacy Management System), bridging a Flutter frontend with a robust PostgreSQL & FastAPI backend.
 - 🌍 **Multilingual:** English, Arabic, German.
-- 💼 Former **Head of Design** @ GDSC PUA & @ DreamTeam & **Vice Head of Web Development** @ IEEE PUA Student Branch.
+- 💼 Former **Head of Design** @ GDSC & DreamTeam & **Vice Head of Web Development** @ IEEE PUA Student Branch.
 
 ---
 
