@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | UX Engineer | Flutter & React Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=89CFF0&center=true&width=600&lines=Crafting+Cozy+%26+Intuitive+Tools;Passionate+about+HCI+%26+UX+Engineering;Flutter,+React,+%26+Frontend+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=89CFF0&center=true&width=600&lines=Crafting+%26+Intuitive+Tools;Passionate+about+HCI+%26+UX+Engineering;Flutter,+React,+%26+Frontend+Developer;" alt="Typing SVG" />
 </p>
 
 ---
