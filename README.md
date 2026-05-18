@@ -13,8 +13,8 @@
 - 🎨 Deeply inspired by clean, artistic aesthetics—I build products that prioritize visual clarity, flexibility, and highly intuitive design.
 - 🛠️ Currently rebuilding **Study Buddy** (React) to include ambient modes, focus timers, and AI-driven exam prep.
 - ⚕️ Developing **APMS** (Automated Pharmacy Management System), bridging a Flutter frontend with a robust PostgreSQL & FastAPI backend.
-- 🌍 **Multilingual:** English, Arabic, German, Japanese.
-- 💼 Former **Head of Design** @ GDSC & **Vice Head of Web Development** @ IEEE Student Branch.
+- 🌍 **Multilingual:** English, Arabic, German.
+- 💼 Former **Head of Design** @ GDSC PUA & @ DreamTeam & **Vice Head of Web Development** @ IEEE PUA Student Branch.
 
 ---
 
@@ -43,7 +43,6 @@
 #### 👩‍💻 **Frontend & Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-AEC6CF?style=flat-square&logo=flutter&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-AEC6CF?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-AEC6CF?style=flat-square&logo=kotlin&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-AEC6CF?style=flat-square&logo=tailwindcss&logoColor=black)
 
 #### 🎨 **Design & Creativity**
