@@ -33,7 +33,7 @@
 |--------------|-----------|
 | 📚 **[Study Buddy](https://studybuddy4u.netlify.app)** | A dedicated EdTech platform to organize study routines, featuring ambient focus modes and AI-assisted prep. |
 | ✅ **[Taskly](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity)** | A visually relaxing task manager focused on reducing user stress through clean UI and smooth UX. |
-| ⚕️ **APMS - Pharmacy System** | A comprehensive full-stack management system featuring an AI chatbot that translates natural language queries into SQL. |
+| ⚕️ **PharmaSys** | A comprehensive full-stack management system featuring an AI chatbot that translates natural language queries into SQL. |
 | 🛍️ **[E-Commerce App](https://github.com/nadiahossny/ecomm.git)** | A feature-rich mobile shopping experience designed for ease of use and visual clarity. |
 
 ---
