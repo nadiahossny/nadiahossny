@@ -10,9 +10,9 @@
 ### 💫 About Me
 
 - 🎓 **CS & AI Student** | Passionate about **HCI** and user-centric engineering.
-- 🎨 Deeply inspired by clean, artistic aesthetics—I build products that prioritize visual clarity, flexibility, and highly intuitive design.
+- 🎨 Deeply inspired by clean, artistic aesthetics—I build products that prioritize visual clarity and flexibility.
 - 🛠️ Currently rebuilding **Study Buddy** (React) to include ambient modes, focus timers, and AI-driven exam prep.
-- ⚕️ Developing **APMS** (Automated Pharmacy Management System), bridging a Flutter frontend with a robust PostgreSQL & FastAPI backend.
+- ⚕️ Developing **APMS** (Automated Pharmacy Management System), bridging a Flutter frontend with PostgreSQL & FastAPI backend.
 - 🌍 **Multilingual:** English, Arabic, German.
 - 💼 Former **Head of Design** @ GDSC & DreamTeam & **Vice Head of Web Development** @ IEEE PUA Student Branch.
 
