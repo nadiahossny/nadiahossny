@@ -13,7 +13,7 @@
 - 🎨 Inspired by clean, artistic, and whimsical aesthetics—I build end-to-end products that prioritize visual clarity, flexibility, and reduced task friction.
 - ⚕️ Bridging hardware and software on **APMS** (Automated Pharmacy Management System)—owning the UX, connection layer, and Flutter apps integrated with a PostgreSQL backend.
 - 🌍 **Multilingual:** English, Arabic, German.
-- 💼 **Head Graphic Designer** @ Dream Team & Former **Vice Head of Web Development** @ IEEE PUA Student Branch.
+- 💼 **Head Graphic Designer** @ Dream Team & Former **Vice Head of Web Development** @ IEEE PUA SB.
 
 ---
 
