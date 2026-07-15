@@ -77,7 +77,3 @@ I'm a UI/UX Designer and Frontend Engineer based in Alexandria, Egypt. I special
 </p>
 
 ---
-
-### 📈 Analytics & Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadiahossny&theme=transparent&hide_border=true&title_color=89CFF0&text_color=9CA3AF&icon_color=89CFF0&ring_color=89CFF0&fire_color=89CFF0" alt="Nadia's GitHub Stats" />
