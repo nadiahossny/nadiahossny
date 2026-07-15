@@ -1,70 +1,95 @@
-<h1 align="center">Hi 👋, I'm Nadia</h1>
-<h3 align="center">Product Designer & Frontend/Flutter Engineer</h3>
+<h1 align="center">Hi, I'm Nadia Hossny 👋✨</h1>
+<h3 align="center">Product Designer · Frontend/Flutter Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=89CFF0&center=true&width=600&lines=Bridging+User+Research+%26+Engineering;Passionate+about+HCI+%26+Low-Cognitive-Load+UIs;Crafting+Cross-Platform+Flutter+%26+React+Apps;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&lines=I+ship+cross-platform+products+end+to+end...;from+user+research+to+production-ready+code;React+by+day+%F0%9F%92%99+Flutter+by+night+%F0%9F%92%9C" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://nadiahossny.vercel.app"><img src="https://img.shields.io/badge/Portfolio-nadiahossny.vercel.app-3B82F6?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/nadiahossny/"><img src="https://img.shields.io/badge/LinkedIn-nadiahossny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.behance.net/nadiahossny"><img src="https://img.shields.io/badge/Behance-nadiahossny-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 </p>
 
 ---
 
-### 💫 About Me
+### 🌷 About Me
 
-- 🎓 **CS & AI Senior** @ Pharos University | Maintaining a **3.76 GPA** with a deep passion for **HCI** and user-centric engineering.
-- 🎨 Inspired by clean, artistic, and whimsical aesthetics—I build end-to-end products that prioritize visual clarity, flexibility, and reduced task friction.
-- ⚕️ Bridging hardware and software on **APMS** (Automated Pharmacy Management System)—owning the UX, connection layer, and Flutter apps integrated with a PostgreSQL backend.
-- 🌍 **Multilingual:** English, Arabic, German.
-- 💼 **Head Graphic Designer** @ Dream Team & Former **Vice Head of Web Development** @ IEEE PUA SB.
+I'm a Product Designer and frontend/mobile engineer based in Alexandria, Egypt — a recent graduate in Computer Science and Artificial Intelligence from Pharos University. I like owning the *entire* pipeline of a product: research 🔍 → wireframes ✏️ → high-fidelity prototypes 🎨 → the actual React or Flutter build that ships to real users 🚀.
 
----
+Think of me as the person who shows up to the meeting with both the mockup *and* the working prototype.
 
-### 💼 Experience Highlights
-
-- **Frontend Developer Intern** @ NTI → Shipped robust React.js web apps with strict WCAG accessibility and cross-browser compatibility.
-- **UX/UI Designer Intern** @ DEPI → Conducted user research and designed high-fidelity prototypes across healthcare and productivity verticals.
-- **Flutter Developer Intern** @ Route Academy → Architected scalable, production-ready mobile apps using BLoC/Provider and JWT-secured REST APIs.
-- **Freelance UX/UI Designer** → Delivering end-to-end Figma UI screens and branding from research to interactive prototypes.
+**A few things I care about:**
+- 📊 Grounding interface decisions in real user data, not vibes
+- ♿ Accessible, WCAG-compliant experiences by default, not an afterthought
+- 🤝 Design-to-development handoff that doesn't lose fidelity along the way
 
 ---
 
-### 🚀 Featured Products
+### 🛠️ Skills
 
-| Project | Description |
-|--------------|-----------|
-| ⚕️ **[PharmaSys / Roshetety](https://github.com/nadiahossny/apms-project.git)**| An enterprise-grade healthcare platform where I owned the UX, connection layer, and Flutter apps, featuring a serial hardware integration. |
-| ✅ **[Taskly](https://www.behance.net/gallery/221757475/Taskly-Simplify-Your-Productivity)** | A visually relaxing task manager focused on reducing user stress through clean UI, grounded in extensive user research and jobs-to-be-done analysis. |
-| 🌐 **[IEEE PUA SB Website](https://ieeepuasb.com)** | Designed and co-developed the official branch website in Flutter with a comprehensive Firebase admin dashboard. |
+**🎨 Design**
+`Figma` `Adobe Creative Cloud` `UX/UI Design` `User Research` `Wireframing` `Prototyping` `Design Systems`
 
----
+**💻 Frontend**
+`HTML5` `CSS3` `JavaScript (ES6+)` `React.js` `Bootstrap`
 
-### 🧰 Tech Stack
+**📱 Mobile**
+`Flutter` `BLoC & Provider` `REST API Integration`
 
-#### 🎨 **Design & Research**
-![Figma](https://img.shields.io/badge/Figma-B3D9FF?style=flat-square&logo=figma&logoColor=black)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-B3D9FF?style=flat-square&logo=adobe&logoColor=black)
-![UX Research](https://img.shields.io/badge/UX_Research-B3D9FF?style=flat-square&logo=minutemailer&logoColor=black)
+**🗄️ Backend & Data**
+`Node.js` `PostgreSQL` `Firebase (Realtime DB & Auth)` `REST APIs`
 
-#### 👩‍💻 **Frontend & Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-AEC6CF?style=flat-square&logo=flutter&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-AEC6CF?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-AEC6CF?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-AEC6CF?style=flat-square&logo=tailwindcss&logoColor=black)
-
-#### 🌐 **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-CBE4F9?style=flat-square&logo=nodedotjs&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CBE4F9?style=flat-square&logo=postgresql&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-CBE4F9?style=flat-square&logo=firebase&logoColor=black)
+**🧰 Tools & Practice**
+`Git & GitHub` `Agile/Scrum` `WCAG Accessibility Guidelines`
 
 ---
 
-### 🌐 Let’s Connect
+### 🚀 Featured Projects
 
-<p>
-  <a href="https://www.linkedin.com/in/nadiahossny" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-89CFF0?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="https://github.com/nadiahossny" target="_blank"><img src="https://img.shields.io/badge/GitHub-89CFF0?style=for-the-badge&logo=github&logoColor=black"/></a>
-  <a href="https://www.behance.net/nadiahossny" target="_blank"><img src="https://img.shields.io/badge/Behance-89CFF0?style=for-the-badge&logo=behance&logoColor=black"/></a>
-  <a href="https://nadiahossny.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-89CFF0?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+**💊 [Automated Pharmacy Management System (PharmaSys & Roshetety)](https://www.behance.net/gallery/252768433/Smart-Prescription-Scanner-Pharmacy-Management-App)**
+An enterprise healthcare platform integrating a *robotic dispensing arm* via serial hardware communication — yes, an actual robot arm 🦾. Owned the full pipeline — stakeholder/patient research, Figma prototypes, Flutter frontend with role-based access control and audit logging — plus a companion consumer app for remote ordering.
+`Flutter` `Node.js` `PostgreSQL` `Serial/Hardware API` `AI Chatbot`
+
+**⚡ IEEE PUA SB Official Website**
+Designed and co-developed the official IEEE PUA Student Branch website, including a full admin dashboard with CRUD operations for event and project management — live in production and still standing 🎉.
+`Flutter` `Firebase`
+
+**✅ [Taskly — Task Management App](https://www.behance.net/nadiahossny)**
+An end-to-end UX case study: competitive analysis, user interviews, personas, wireframes, component library, and an interactive high-fidelity prototype — with a documented design rationale for anyone who loves the "why" as much as the "what."
+`Figma`
+
+---
+
+### 💼 Experience Snapshot
+
+- 🖥️ **Frontend Developer Intern** @ National Telecommunication Institute (NTI) — shipped 10+ React.js apps with 100% cross-browser compatibility
+- 🎨 **UX/UI Designer Intern** @ Digital Egypt Pioneers Initiative (DEPI) — designed 5+ mobile/web UIs across healthcare and productivity verticals
+- 📱 **Mobile App Developer Intern** @ Route Academy — architected 5 production Flutter apps with clean architecture principles
+
+---
+
+### ☁️ Currently
+
+```yaml
+role: Product Designer & Frontend/Flutter Engineer
+based_in: Alexandria, Egypt
+status: Recent CS & AI grad, open to new roles
+probably: making an interface "just a little more accessible"
+fun_fact: I design the UI, then I build it myself — no handoff drama
+```
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://nadiahossny.vercel.app">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/nadiahossny/">💼 LinkedIn</a> ·
+  <a href="https://www.behance.net/nadiahossny">🎨 Behance</a> ·
+  <a href="mailto:nadiahossny426@gmail.com">✉️ Email</a>
 </p>
 
----
-
-> “I build products that bring flexibility, utility, and a little bit of joy to the user.”
+<p align="center">
+  <i>Thanks for scrolling all the way down here 🥹 — that's basically a first date in internet years.</i>
+</p>
