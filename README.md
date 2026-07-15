@@ -8,11 +8,12 @@
   </a>
 </div>
 
+<!-- Professional Social Links -->
 <div align="center">
-  <a href="https://nadiahossny.vercel.app"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/nadiahossny/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.behance.net/nadiahossny"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
-  <a href="mailto:nadiahossny426@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://nadiahossny.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-89CFF0?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/nadiahossny/"><img src="https://img.shields.io/badge/-LinkedIn-89CFF0?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.behance.net/nadiahossny"><img src="https://img.shields.io/badge/-Behance-89CFF0?style=flat-square&logo=behance&logoColor=white" alt="Behance"/></a>
+  <a href="mailto:nadiahossny426@gmail.com"><img src="https://img.shields.io/badge/-Email-89CFF0?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
