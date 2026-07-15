@@ -77,3 +77,7 @@ I'm a UI/UX Designer and Frontend Engineer based in Alexandria, Egypt. I special
     <img src="https://skillicons.dev/icons?i=nodejs,postgres,firebase,git,github,vscode&theme=dark&perline=8" alt="Backend and Tools" />
   </a>
 </p>
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
