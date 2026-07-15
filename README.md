@@ -81,7 +81,7 @@ I'm a UI/UX Designer and Frontend Engineer based in Alexandria, Egypt. I special
 ### 📈 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadiahossny&show_icons=true&hide_border=true&bg_color=transparent&title_color=89CFF0&text_color=9CA3AF&icon_color=89CFF0" alt="Nadia's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nadiahossny&show_icons=true&hide_border=true&bg_color=transparent&title_color=89CFF0&text_color=9CA3AF&icon_color=89CFF0&v=1" alt="Nadia's GitHub Stats" />
 </div>
 
 <br/>
