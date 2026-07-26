@@ -21,7 +21,10 @@
 
 ### ☁️ About Me
 
-I'm a UI/UX Designer and Frontend Engineer based in Alexandria, Egypt. I specialize in owning the full product lifecycle—from high-fidelity Figma prototypes and user research down to production-ready React and Flutter code. 
+Product Designer and frontend/mobile engineer who ships cross-platform products end to end, from user research through React.js and 
+Flutter interfaces to database and backend integration. Known for grounding every interface decision in user data, reducing task friction, 
+and delivering interfaces that read as considered rather than templated — validated by consistent first-review client approval and 
+measurable QA and accessibility gains.
 
 - 🎓 Completed B.Sc. in Computer Science & Artificial Intelligence (Class of 2026).
 - 🔭 Currently building robust, accessible, and user-centric digital experiences.
