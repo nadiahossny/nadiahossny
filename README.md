@@ -44,7 +44,7 @@ measurable QA and accessibility gains.
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
     <td width="50%" valign="top" style="padding: 15px;">
-      <h3><a href="https://github.com/nadiahossny/byto-academy">📚 Byto Academy</a> & <a href="https://github.com/nadiahossny/study-buddy">Study Buddy</a></h3>
+      <h3><a href="https://github.com/nadiahossny/byto-academy">📚 Byto Academy</a> & <a href="https://github.com/nadiahossny/studybuddy.2">Study Buddy</a></h3>
       <p>Developed full-scale e-learning and web-based productivity platforms. Designed interactive study companions focused on utility and user experience.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -52,13 +52,13 @@ measurable QA and accessibility gains.
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 15px;">
-      <h3><a href="https://github.com/nadiahossny/aura-leaf">🍃 Aura Leaf</a></h3>
+      <h3><a href="https://github.com/nadiahossny/AuraLeaf">🍃 Aura Leaf</a></h3>
       <p>An interactive, aesthetic web application utilizing the Web Audio API to create immersive auditory experiences, styled precisely with custom architectures.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
     <td width="50%" valign="top" style="padding: 15px;">
-      <h3><a href="https://github.com/nadiahossny/ieee-pua-sb">⚡ IEEE PUA SB</a></h3>
+      <h3><a href="https://github.com/AyatSalahEl-din/IEEE_Website">⚡ IEEE PUA SB</a></h3>
       <p>Served as Vice Head of the Web Development Committee. Designed and co-developed the official student branch website with a full admin dashboard.</p>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
